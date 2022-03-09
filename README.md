@@ -1,2 +1,2 @@
 # App_Delivery
-Projeto de aplicativo para ramo alimentício, desenvolvido com HTML, CSS e JS. 
+Projeto pessoal em desenvolvimento com objetivo de colocar em prática meus conhecimentos adquiridos em HTML, CSS e JS. 
