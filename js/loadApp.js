@@ -11,3 +11,4 @@ let i = setInterval(function () {
     $('.content').css('display','block');
 
 }, 5000);
+
